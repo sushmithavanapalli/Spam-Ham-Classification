@@ -1,0 +1,9 @@
+{
+	"name": "sushmithagit-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "497e7685-6f8b-4005-a633-bff2df4c1c00",
+		"tenantId": "e0793d39-0939-496d-b129-198edd916feb"
+	}
+}
