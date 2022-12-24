@@ -3,7 +3,8 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Wait1",
+				"name": "pl_wait",
+				"description": "wait pipeline",
 				"type": "Wait",
 				"dependsOn": [],
 				"userProperties": [],
